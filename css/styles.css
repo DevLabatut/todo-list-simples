@@ -1,0 +1,101 @@
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-size: 16px;
+  min-height: 100vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  text-align: center;
+}
+
+#campoTarefa {
+  padding: 12px;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  font-size: 16px;
+  outline: none;
+}
+
+.grupo-buttons {
+  margin: 10px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 400px;
+}
+
+button {
+  flex: 1 1 100px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #333;
+  color: #f0f0f0;
+  font-size: 16px;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+ul {
+  list-style: none;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 10px;
+  padding: 0;
+}
+
+li {
+  padding: 12px;
+  margin-bottom: 8px;
+  background-color: #1e1e1e;
+  border-radius: 5px;
+  font-size: 16px;
+  word-break: break-word;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.grupoBotao {
+  display: flex;
+  gap: 5px;
+  flex-shrink: 0;
+}
+
+.grupoBotao button {
+  background-color: #444;
+  font-size: 14px;
+  padding: 6px 10px;
+}
+
+.grupoBotao button:hover {
+  background-color: #666;
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 24px;
+  }
+}
