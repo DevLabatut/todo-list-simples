@@ -35,7 +35,7 @@ todo-list-simples/
 1. Clone o projeto:
 
 ```bash
-git clone https://github.com/DevLabatut/treinar4.git
+git clone https://github.com/DevLabatut/todo-list-simples.git
 ```
 
 2. Abra o `index.html` no navegador.
@@ -50,3 +50,4 @@ git clone https://github.com/DevLabatut/treinar4.git
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 | :---------------------------------------------------------------------------------------------------------------: |
+
