@@ -2,6 +2,10 @@
 
 Um projeto simples de lista de tarefas feito com **HTML**, **CSS** e **JavaScript**. Permite adicionar, editar, completar e remover tarefas facilmente.
 
+#Preview
+
+<img src="preview.png" width="400">
+
 ## Funcionalidades
 
 * Adicionar novas tarefas.
@@ -50,4 +54,5 @@ git clone https://github.com/DevLabatut/todo-list-simples.git
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 | :---------------------------------------------------------------------------------------------------------------: |
+
 
