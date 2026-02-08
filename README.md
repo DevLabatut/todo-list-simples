@@ -27,9 +27,10 @@ Um projeto simples de lista de tarefas feito com **HTML**, **CSS** e **JavaScrip
 todo-list-simples/
 │
 ├─ index.html
+├─ preview.png
 ├─ css/
-│  ├─ styles.css
-│  └─ reset.css
+│  ├─ reset.css
+│  └─ styles.css
 └─ js/
    └─ script.js
 ```
@@ -54,5 +55,6 @@ git clone https://github.com/DevLabatut/todo-list-simples.git
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 | :---------------------------------------------------------------------------------------------------------------: |
+
 
 
